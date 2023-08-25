@@ -6,3 +6,7 @@
 ``` javascript
 const myString = "Hello, world!";
 ```
+
+- [x] Finish this Markdown activity
+- [ ] Ascend the ranks
+- [ ] Take over the world
